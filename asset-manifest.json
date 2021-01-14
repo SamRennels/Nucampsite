@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Nucampsite/static/css/main.5d81b890.chunk.css",
+    "main.js": "/Nucampsite/static/js/main.3c916bd7.chunk.js",
+    "main.js.map": "/Nucampsite/static/js/main.3c916bd7.chunk.js.map",
+    "runtime-main.js": "/Nucampsite/static/js/runtime-main.1933ad09.js",
+    "runtime-main.js.map": "/Nucampsite/static/js/runtime-main.1933ad09.js.map",
+    "static/css/2.c3174fb2.chunk.css": "/Nucampsite/static/css/2.c3174fb2.chunk.css",
+    "static/js/2.6c864765.chunk.js": "/Nucampsite/static/js/2.6c864765.chunk.js",
+    "static/js/2.6c864765.chunk.js.map": "/Nucampsite/static/js/2.6c864765.chunk.js.map",
+    "static/js/3.5419d87b.chunk.js": "/Nucampsite/static/js/3.5419d87b.chunk.js",
+    "static/js/3.5419d87b.chunk.js.map": "/Nucampsite/static/js/3.5419d87b.chunk.js.map",
+    "index.html": "/Nucampsite/index.html",
+    "static/css/2.c3174fb2.chunk.css.map": "/Nucampsite/static/css/2.c3174fb2.chunk.css.map",
+    "static/css/main.5d81b890.chunk.css.map": "/Nucampsite/static/css/main.5d81b890.chunk.css.map",
+    "static/js/2.6c864765.chunk.js.LICENSE.txt": "/Nucampsite/static/js/2.6c864765.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/Nucampsite/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/index.css": "/Nucampsite/static/media/open-sans-latin-800italic.b5bc2661.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1933ad09.js",
+    "static/css/2.c3174fb2.chunk.css",
+    "static/js/2.6c864765.chunk.js",
+    "static/css/main.5d81b890.chunk.css",
+    "static/js/main.3c916bd7.chunk.js"
+  ]
+}
